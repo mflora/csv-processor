@@ -1,13 +1,13 @@
-package com.example.csvprocessor;
+package com.example.systemA;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CsvProcessorApplication {
+public class SystemAApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CsvProcessorApplication.class, args);
+		SpringApplication.run(SystemAApplication.class, args);
 	}
 
 }
